@@ -2,7 +2,7 @@
 title: "Pengaruh Pertumbuhan Inflasi Terhadap Harga Beras di Provinsi Banten Pada Tahun 2023"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Muhammad Zaky Khaerul Anwar"
-date: 2025-14-01
+date: 2025-01-16
 number-sections: true
 format:
   html: default
